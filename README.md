@@ -29,4 +29,4 @@ In my free time I like dive into low level languages, like writing a bootloader 
 | miniRT | Image rendering with raytracing in C | Core Rank 04 | 06-May-2025 | 🔗 [https://github.com/Horrjiy/miniRT](https://github.com/Horrjiy/miniRT) |
 | CPP Modules | 10 small C++ introduction projects | Core Rank 04+05 | | 🔗 [https://github.com/tleisterer/CPP](https://github.com/tleisterer/CPP) |
 | ft_irc | A simple IRC server | Core Rank 05 | 27-Nov-2025 | 🔗 [https://github.com/JoKleiner/ft_irc](https://github.com/JoKleiner/ft_irc) |
-| ft_transcendence | PONGTRIS | Core Rank 06 | ☄️ Coming soon... | 🔗 [https://github.com/tleisterer/ft_transcendence](https://github.com/tleisterer/ft_transcendence) |
+| ft_transcendence | PONGTRIS | Core Rank 06 | 09-Jun-2026 | 🔗 [https://github.com/tleisterer/ft_transcendence](https://github.com/tleisterer/ft_transcendence) |
