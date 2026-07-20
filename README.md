@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm @tleisterer 👋
 
-<!--
-**tleisterer/tleisterer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems-focused projects in **C** and **C++**, with a strong focus on concurrency, correctness, and clean low-level implementation.
 
-Here are some ideas to get you started:
+## Projects I've worked on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [philosopher](https://github.com/tleisterer/philosopher)
+- Language: **C**
+- A concurrency-focused implementation of the Dining Philosophers problem (`philo` + `philo_bonus`).
+- Main focus: synchronization, process/thread coordination, and avoiding race conditions.
+
+### [CPP09](https://github.com/tleisterer/CPP09)
+- Language: **C++**
+- C++ module project organized into exercises (`ex00`, `ex01`, `ex02`).
+- Main focus: practical STL usage, algorithmic thinking, and object-oriented design in modern C++.
+
+## Profile repository
+
+This repository (`tleisterer/tleisterer`) is my GitHub profile README. It gives a quick overview of what I work on and where to find my projects.
